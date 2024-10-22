@@ -1,23 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'TAG de Programação',
+    'O que é Background?',
+    'Background é cor de fundo.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'TAG de Programação',
+    'O que é Random?',
+    'Random é ALEATÓRIO'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'TAG de Programação',
+    'O que é Height E Width?',
+    'Height E Width - Significa ALTURA E LARGURA'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'TAG de Programação',
+    'Como se diz VERDADEIRO E FALSO em Inglês?',
+    'VERDADEIRO E FALSO - TRUE E FALSE'
+)
+
+criaCartao(
+    'TAG de Programação',
+    'Como se diz VERDADEIRO E FALSO em Inglês?',
+    'VERDADEIRO E FALSO - TRUE E FALSE'
 )
