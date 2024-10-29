@@ -24,6 +24,12 @@ criaCartao(
 
 criaCartao(
     'TAG de Programação',
+     'O que é IF e ELSE?',
+    'IF - Significa "se"; e ELSE significa "se então"'
+)
+
+criaCartao(
+    'TAG de Programação',
     'Como se diz VERDADEIRO E FALSO em Inglês?',
     'VERDADEIRO E FALSO - TRUE E FALSE'
 )
