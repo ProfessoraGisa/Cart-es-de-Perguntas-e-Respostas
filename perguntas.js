@@ -30,6 +30,7 @@ criaCartao(
 
 criaCartao(
     'TAG de Programação',
-    'Como se diz VERDADEIRO E FALSO em Inglês?',
+     'Função setup e Função draw tem qual finalidade no program P5JS?,
+Como se diz VERDADEIRO E FALSO em Inglês?',
     'VERDADEIRO E FALSO - TRUE E FALSE'
 )
